@@ -4,6 +4,7 @@ VBA and CorelDraw
 ## Summary
 1. [About](#about)
 2. [Function](#function)
+3. [Command](#command)
 
 <div id="about" />
 
@@ -17,7 +18,9 @@ This code was developed for a clothing company, focused on the sports area. The 
 - Change words (shapes).
 - Export vector groups, organized in layers.
 
-## Comando
+<div id="command" />
+
+## Command
 syntax: ```exportPNG([layerNameShort] As String, [playerName] As String, [numberID] As String, [sizeN] As String)```
 
 |Comand|Description|Requery|
