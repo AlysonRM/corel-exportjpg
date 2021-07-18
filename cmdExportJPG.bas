@@ -1,4 +1,4 @@
-Attribute VB_Name = "cmdMagalhaes"
+Attribute VB_Name = "cmdExportJPG"
 
 Public Sub cTextEdit(Jogador As String, Tamanho As String, Numero As String)
 Dim s As Shape
