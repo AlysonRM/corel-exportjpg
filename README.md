@@ -37,4 +37,11 @@ syntax: ```exportPNG([layerNameShort] As String, [playerName] As String, [number
 <div id="prints" />
 
 ## Screenshots
+-01 - Windows Corel
 ![01 - Windows Corel](https://raw.githubusercontent.com/AlysonRM/corel-exportjpg/main/_screenshots/1-WindowCorel.png)
+-02 - Select option "Macro Global" inside macros
+![2-MacroGlobalOpen](https://raw.githubusercontent.com/AlysonRM/corel-exportjpg/main/_screenshots/2-MacroGlobalOpen.png)
+-03 - Fill in the text in the form
+![3-FormToExport](https://raw.githubusercontent.com/AlysonRM/corel-exportjpg/main/_screenshots/3-FormToExport.png)
+-04 - Exported folders and vectors
+![4-VectorExported](https://raw.githubusercontent.com/AlysonRM/corel-exportjpg/main/_screenshots/4-VectorExported.png)
