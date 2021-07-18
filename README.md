@@ -37,4 +37,4 @@ syntax: ```exportPNG([layerNameShort] As String, [playerName] As String, [number
 <div id="prints" />
 
 ## Screenshots
- 
+!(01 - Windows Corel) [https://raw.githubusercontent.com/AlysonRM/corel-exportjpg/main/_screenshots/1-WindowCorel.png]
