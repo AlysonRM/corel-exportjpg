@@ -37,7 +37,4 @@ syntax: ```exportPNG([layerNameShort] As String, [playerName] As String, [number
 <div id="prints" />
 
 ## Screenshots
-
-- ![1](https://imgur.com/7QZEOMG) 
-- ![2](https://imgur.com/FzydzGS)
-- 
+ 
